@@ -20,3 +20,5 @@ dotnet run --project BHD.API
 ```
 
 O desde Visual Studio ejecutar el proyecto.
+
+La base de datos sera generada con cuentas de pruebas una vez el proyecto es ejecutado y el connectionString este configurado adecuadamente.
