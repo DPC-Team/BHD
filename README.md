@@ -17,6 +17,6 @@ Desde consola:
 
 ```bash
 dotnet run --project BHD
-```bash
+bash```
 
 O desde Visual Studio ejecutar el proyecto.
