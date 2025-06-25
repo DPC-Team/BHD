@@ -6,9 +6,8 @@ Este proyecto implementa un sistema de gestión de cuentas y transacciones banca
 
 ## ¿Cómo probarlo?
 
-### 1. Verifica que tengas SQL Server local ejecutando
+### 1. Verifica que tengas la connection configurada
 
-Asegúrate de tener tu instancia SQL activa y accesible (por ejemplo, `DARWIN\DARWINSQL`).  
 La cadena de conexión está definida en `appsettings.json`.
 
 ### 2. Ejecuta el proyecto
