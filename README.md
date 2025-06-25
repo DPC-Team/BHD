@@ -16,6 +16,7 @@ La cadena de conexión está definida en `appsettings.json`.
 Desde consola:
 
 ```
-dotnet run --project BHD.API ```
+dotnet run --project BHD.API
+```
 
 O desde Visual Studio ejecutar el proyecto.
