@@ -4,7 +4,7 @@ Este proyecto implementa un sistema de gestión de cuentas y transacciones banca
 
 ---
 
-## 🚀 ¿Cómo probarlo?
+## ¿Cómo probarlo?
 
 ### 1. Verifica que tengas SQL Server local ejecutando
 
@@ -13,7 +13,9 @@ La cadena de conexión está definida en `appsettings.json`.
 
 ### 2. Ejecuta el proyecto
 
-Desde consola o Visual Studio:
+Desde consola:
 
 ```bash
-dotnet run --project BHD.API
+dotnet run --project BHD
+
+O desde Visual Studio ejecutar el proyecto.
