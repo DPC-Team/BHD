@@ -1,4 +1,4 @@
-﻿# 🏦 Sistema de Cuentas y Transferencias – BHD
+﻿# Sistema de Cuentas y Transferencias – BHD
 
 Este proyecto implementa un sistema de gestión de cuentas y transacciones bancarias utilizando .NET, EF Core y SQL Server.
 
@@ -17,5 +17,6 @@ Desde consola:
 
 ```bash
 dotnet run --project BHD
+```bash
 
 O desde Visual Studio ejecutar el proyecto.
